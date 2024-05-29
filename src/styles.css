@@ -88,4 +88,10 @@
   .game-info {
     margin-left: 20px;
   }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 30px);
+    grid-template-rows: repeat(3, 30px);
+  }
   
