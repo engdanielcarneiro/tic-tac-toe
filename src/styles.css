@@ -70,6 +70,10 @@
     text-align: center;
     width: 34px;
   }
+
+  .square.winner {
+    background: rgb(244, 0, 227);
+  }
   
   .board-row:after {
     clear: both;
